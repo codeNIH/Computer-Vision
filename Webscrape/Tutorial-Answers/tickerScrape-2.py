@@ -54,5 +54,6 @@ def bonus():
       choice = raw_input('Search again? \n(y/n): ')
       if choice == 'n'.lower():
           os.system('exit')
-          
+        
+# UNCOMMENT for Bonus version          
 # bonus()
